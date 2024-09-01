@@ -18,4 +18,8 @@
     <ProjectReference Include="..\HotelFinder.Entities\HotelFinder.Entities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+  </ItemGroup>
+
 </Project>
