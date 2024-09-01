@@ -18,8 +18,4 @@
     <ProjectReference Include="..\HotelFinder.Entities\HotelFinder.Entities.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Concrete\" />
-  </ItemGroup>
-
 </Project>
